@@ -5,7 +5,6 @@ import {
   Calendar,
   FileText,
   ExternalLink,
-  Download,
   MessageSquare,
   Heart,
   Globe,

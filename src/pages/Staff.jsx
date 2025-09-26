@@ -7,7 +7,6 @@ import {
   Heart,
   GraduationCap,
   Mail,
-  Phone,
   Lightbulb
 } from 'lucide-react';
 

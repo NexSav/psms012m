@@ -10,8 +10,7 @@ import {
   Globe,
   GraduationCap,
   Sparkles,
-  CheckCircle,
-  ArrowRight
+  CheckCircle
 } from 'lucide-react';
 
 const About = () => {
